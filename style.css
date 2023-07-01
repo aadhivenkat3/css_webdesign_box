@@ -1,0 +1,202 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	width:90%;
+	margin:0 auto;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+/*header section*/
+
+header{
+	background-color:#66ff66;
+	padding:15px 0;
+}
+.head{
+	background-color:#ffffff;
+	height:50px;
+}
+.navbar{
+	background-color:#fff;
+	height:60px;
+}
+/*header section end*/
+
+/*about section*/
+
+.about-sec{
+	background-color:#fff;
+	padding:15px 0;
+}
+.about{
+	background-color:#66ff66;
+	height:400px;	
+}
+/*about section end*/
+
+/*content section*/
+
+.content-sec{
+	background-color:#6f6;
+	padding:15px 0;
+}
+.content{
+	background-color:#fff;
+	height:400px;
+}
+/*content section end*/
+
+/*count section*/
+
+.count-sec{
+	background-color:#fff;
+	padding:15px 0;
+}
+.count{
+	background-color:#6f6;
+	height:150px;
+}
+
+/*count section end*/
+
+/*learn section*/
+
+.learn-sec{
+	background-color:#66ff66;
+	padding:15px 0;
+}
+.learn1{
+	background-color:#fff;
+	height:450px;
+	
+}
+.learn{
+	background-color:#fff;
+	height:400px;
+}
+/*learn section end*/
+
+/*option section*/
+
+.option-sec{
+	background-color:#fff;
+	padding:20px 0;	
+}
+.option{
+	background-color:#6f6;
+	height:90px;
+	margin-bottom:20px;
+}
+/*option section end*/
+
+/*course section*/
+
+.course-sec{
+	background-color:#66ff66;
+	padding:15px 0;
+}
+.course{
+	background-color:#fff;
+	height:550px;
+}
+/*course section end*/
+
+/*founder section*/
+
+.founder-sec{
+	background-color:#fff;
+	padding:15px 0;
+}
+.founder{
+	background-color:#6f6;
+	height:550px;
+}
+/*founder section end*/
+
+/*address section*/
+}
+.address-sec{
+	background-color:#000;
+	padding:25px 0;
+}
+.address{
+	background-color:#fff;
+	height:300px;
+}
+/*address section end*/
+
+/*footer section*/
+
+
+footer{
+	background-color:#6f6;
+	padding:15px 0;
+}
+.foot{
+	background-color:#fff;
+	height:70px;
+}
+/*footer section end*/
+
+
+
+
+
+
+.col-1{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-2{
+	width:16.66%;
+	padding:0 15px;
+}
+.col-3{
+	width:25%;
+	padding:0 15px;
+}
+.col-4{
+	width:33.32%;
+	padding:0 15px;
+}
+.col-5{
+	width:41.65%;
+	padding:0 15px;
+}
+.col-6{
+	width:50%;
+	padding:0 15px;
+}
+.col-7{
+	width:58.31%;
+	padding:0 15px;
+}
+.col-8{
+	width:66.64%;
+	padding:0 15px;
+}
+.col-9{
+	width:75%;
+	padding:0 15px;
+}
+.col-10{
+	width:83.3%;
+	padding:0 15px;
+}
+.col-11{
+	width:91.63%;
+	padding:0 15px;
+}
+.col-12{
+	width:100%;
+	padding:0 15px;
+}
+.align{
+	align-items:center;
+}
